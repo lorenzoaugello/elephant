@@ -1,4 +1,5 @@
-# ELEPHANT
+# ELEPHANT 🐘 
+
 
 ## Evaluating Lexical Embeddings Parallel to Hierarchical And Neural Taxonomies
 
@@ -15,7 +16,7 @@ The final created ELEPHANT knowledge graph reports the following numbers:
 - total triples: 7,128
 - total entities: 1,840
 - lexical entries: 299
-- synsets (modelled as `ontolex:LexicalConcept`: 295
+- synsets (modelled as `ontolex:LexicalConcept`): 295
 - similarity scores: 702
 - hypernymy relations: 117
 - hypomymy relations: 117

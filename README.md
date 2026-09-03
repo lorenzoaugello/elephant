@@ -1,4 +1,6 @@
-# elephant
+# ELEPHANT
+
+## Evaluating Lexical Embeddings Parallel to Hierarchical And Neural Taxonomies
 
 Elephant is a knowledge graph constructed with the aim of evaluating the hierarchical reasoning capabilities of neural models.
 
